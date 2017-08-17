@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carWheel>
+    <carWheelInfo carWheelInfoId="1">
+       	<id>1</id>
+        <name>轮毅1</name>
+        <loadpath></loadpath>
+    </carWheelInfo>
+    <carWheelInfo carWheelInfoId="2">
+       	<id>2</id>
+        <name>轮毅2</name>
+        <loadpath></loadpath>
+    </carWheelInfo>
+    <carWheelInfo carWheelInfoId="3">
+       	<id>3</id>
+        <name>轮毅3</name>
+        <loadpath></loadpath>
+    </carWheelInfo>
+    <carWheelInfo carWheelInfoId="4">
+       	<id>4</id>
+        <name>轮毅4</name>
+        <loadpath></loadpath>
+    </carWheelInfo>
+    <carWheelInfo carWheelInfoId="5">
+       	<id>5</id>
+        <name>轮毅5</name>
+        <loadpath></loadpath>
+    </carWheelInfo>
+    <carWheelInfo carWheelInfoId="6">
+       	<id>6</id>
+        <name>轮毅6</name>
+        <loadpath></loadpath>
+    </carWheelInfo>
+</carWheel>

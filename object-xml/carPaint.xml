@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carPaint>
+    <carPaintInfo carPaintInfoId="1">
+       	<id>1</id>
+        <name>颜色1</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="2">
+       	<id>2</id>
+        <name>颜色2</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="3">
+       	<id>3</id>
+        <name>颜色3</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="4">
+       	<id>4</id>
+        <name>颜色4</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="5">
+       	<id>5</id>
+        <name>颜色5</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="6">
+       	<id>6</id>
+        <name>颜色6</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="7">
+       	<id>7</id>
+        <name>颜色7</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="8">
+       	<id>8</id>
+        <name>颜色8</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="9">
+       	<id>9</id>
+        <name>颜色9</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+    <carPaintInfo carPaintInfoId="10">
+       	<id>10</id>
+        <name>颜色10</name>
+		<loadpath></loadpath>
+    </carPaintInfo>
+</carPaint>

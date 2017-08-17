@@ -1,0 +1,128 @@
+{
+  "Generator": "OpenSceneGraph 3.4.0", 
+  "Version": 7, 
+  "osg.Node": {
+    "Children": [ {
+      "osg.Node": {
+        "UniqueID": 0, 
+        "Name": "Scene Root", 
+        "StateSet": {
+          "osg.StateSet": {
+            "UniqueID": 1
+          }
+        }, 
+        "Children": [ {
+          "osg.Node": {
+            "UniqueID": 3, 
+            "Name": "Object004", 
+            "Children": [ {
+              "osg.Node": {
+                "UniqueID": 4, 
+                "Name": "Object004-OFFSET", 
+                "Children": [ {
+                  "osg.Node": {
+                    "UniqueID": 5, 
+                    "Name": "Object004-GEODE", 
+                    "Children": [ {
+                      "osg.Geometry": {
+                        "UniqueID": 6, 
+                        "Name": "Material #1226", 
+                        "StateSet": {
+                          "osg.StateSet": {
+                            "UniqueID": 7, 
+                            "Name": "Material #1226", 
+                            "AttributeList": [ {
+                              "osg.Material": {
+                                "UniqueID": 9, 
+                                "Ambient": [ 0.588, 0.588, 0.588, 1], 
+                                "Diffuse": [ 1, 1, 1, 1], 
+                                "Emission": [ 0, 0, 0, 1], 
+                                "Shininess": 12.8, 
+                                "Specular": [ 0, 0, 0, 1]
+                              }
+                            },
+                            {
+                              "osg.CullFace": {
+                                "UniqueID": 10, 
+                                "Mode": "BACK"
+                              }
+                            } ], 
+                            "TextureAttributeList": [ [ {
+                              "osg.Texture": {
+                                "UniqueID": 8, 
+                                "File": "images\\car_02_neishi_dinggai.png", 
+                                "MagFilter": "LINEAR", 
+                                "MinFilter": "LINEAR_MIPMAP_LINEAR", 
+                                "WrapS": "REPEAT", 
+                                "WrapT": "REPEAT"
+                              }
+                            } ] ]
+                          }
+                        }, 
+                        "PrimitiveSetList": [ {
+                          "DrawElementsUShort": {
+                            "UniqueID": 14, 
+                            "Indices": {
+                              "Array": { 
+                                "Uint16Array": { 
+                                  "Elements": [ 0, 1, 2, 2, 3, 0 ],
+                                  "Size": 6
+                                }
+                              }, 
+                              "ItemSize": 1, 
+                              "Type": "ELEMENT_ARRAY_BUFFER"
+                            }, 
+                            "Mode": "TRIANGLES"
+                          }
+                        } ], 
+                        "VertexAttributeList": {
+                          "Normal": {
+                            "UniqueID": 12, 
+                            "Array": { 
+                              "Float32Array": { 
+                                "Elements": [ -1, 0, 0, -1, 0, 0, -1, 0, 0, -1, -0, -0 ],
+                                "Size": 4
+                              }
+                            }, 
+                            "ItemSize": 3, 
+                            "Type": "ARRAY_BUFFER"
+                          }, 
+                          "TexCoord0": {
+                            "UniqueID": 13, 
+                            "Array": { 
+                              "Float32Array": { 
+                                "Elements": [ 0, 0, 1, 0, 1, 1, 0, 1 ],
+                                "Size": 4
+                              }
+                            }, 
+                            "ItemSize": 2, 
+                            "Type": "ARRAY_BUFFER"
+                          }, 
+                          "Vertex": {
+                            "UniqueID": 11, 
+                            "Array": { 
+                              "Float32Array": { 
+                                "Elements": [ 327.378, 161.773, 1.83105e-06, 327.378, -164.531, 1.83105e-06, 327.378, -164.531, 153.84, 327.378, 161.773, 153.84 ],
+                                "Size": 4
+                              }
+                            }, 
+                            "ItemSize": 3, 
+                            "Type": "ARRAY_BUFFER"
+                          }
+                        }
+                      }
+                    } ]
+                  }
+                } ]
+              }
+            } ]
+          }
+        } ], 
+        "UserDataContainer": {
+          "UniqueID": 2, 
+          "Values": [  ]
+        }
+      }
+    } ]
+  }
+}
